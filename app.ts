@@ -1,4 +1,3 @@
-// coordinate pair x,y
+let direction: "north" | "south" | "east" | "west";
 
-const coord: [number, string] = [1,"2"];
-console.log(coord[1]);
+direction = "north";
