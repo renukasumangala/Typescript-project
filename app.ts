@@ -1,5 +1,3 @@
-function test(x: number): number {
-    return x + 1;
-}
+let x: number;
 
-test(2)
+x=2;
