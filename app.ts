@@ -1,1 +1,1 @@
-let x: null;
+let x: undefined;
