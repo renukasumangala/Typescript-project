@@ -1,3 +1,3 @@
-let direction: "north" | "south" | "east" | "west" | "northeast";
+let responseCode: 1 | 2 | 3;
 
-direction = "north";
+responseCode = 1;
