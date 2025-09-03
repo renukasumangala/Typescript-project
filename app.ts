@@ -1,3 +1,3 @@
-let x: string;
- 
-x= "hello";
+let x: boolean;
+
+x= true;
