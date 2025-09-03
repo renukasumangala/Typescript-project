@@ -1,3 +1,1 @@
-let x: boolean;
-
-x= true;
+let x: null;
