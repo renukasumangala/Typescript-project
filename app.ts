@@ -1,3 +1,3 @@
-let x: number;
-
-x=2;
+let x: string;
+ 
+x= "hello";
